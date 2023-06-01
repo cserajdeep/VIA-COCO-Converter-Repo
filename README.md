@@ -1,4 +1,4 @@
-This repo. is meant for those who find difficulty in dealing with formatting issues in annotations (Faster RCNN, Mask RCNN, etc.)
+This repo. is meant for those who find difficulty in dealing with formatting issues with annotations (Faster RCNN, Mask RCNN, etc.)
 e.g., VGG-Image-Annotator (VIA) JSON to COCO JSON, JSON to XML, and XML to TXT, vice versa.
 
 ```
